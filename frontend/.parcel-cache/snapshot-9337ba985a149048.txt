@@ -1,0 +1,9 @@
+8
+75C:\Users\karsa\Downloads\ecommerce-chatbot-full-project\frontend\index.html133941827773003188 0
+77C:\Users\karsa\Downloads\ecommerce-chatbot-full-project\frontend\package.json133941827773199411 0
+90C:\Users\karsa\Downloads\ecommerce-chatbot-full-project\frontend\src\components\ChatBot.js133941827773371020 0
+68C:\Users\karsa\Downloads\ecommerce-chatbot-full-project\frontend\src133941827773371020 1
+77C:\Users\karsa\Downloads\ecommerce-chatbot-full-project\frontend\src\index.js133941827773237397 0
+75C:\Users\karsa\Downloads\ecommerce-chatbot-full-project\frontend\src\api.js133941827773328217 0
+94C:\Users\karsa\Downloads\ecommerce-chatbot-full-project\frontend\src\components\ProductCard.js133941827773371020 0
+79C:\Users\karsa\Downloads\ecommerce-chatbot-full-project\frontend\src\components133941827773371020 1

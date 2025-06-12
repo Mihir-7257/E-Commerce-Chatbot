@@ -1,0 +1,105 @@
+body {
+  background-color: #f5f7fa;
+  margin: 0;
+  padding: 0;
+  font-family: Segoe UI, sans-serif;
+}
+
+.chat-container {
+  background: #fff;
+  border-radius: 12px;
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 20px;
+  box-shadow: 0 0 15px #0000001a;
+}
+
+.chat-title {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.chatbox {
+  background: #fafafa;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  max-height: 400px;
+  padding: 10px;
+  overflow-y: auto;
+}
+
+.message {
+  margin-bottom: 15px;
+}
+
+.message.user .user-text {
+  text-align: right;
+  color: #333;
+  font-weight: 500;
+}
+
+.message.bot .bot-text {
+  color: #555;
+  margin-bottom: 10px;
+  font-style: italic;
+}
+
+.input-area {
+  gap: 10px;
+  margin-top: 15px;
+  display: flex;
+}
+
+input[type="text"] {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  flex: 1;
+  padding: 10px;
+  font-size: 1rem;
+}
+
+button {
+  color: #fff;
+  cursor: pointer;
+  background-color: #007bff;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 20px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.product-card {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  margin-top: 10px;
+  padding: 12px;
+}
+
+.product-card h4 {
+  color: #222;
+  margin: 0;
+}
+
+.product-card p {
+  margin: 5px 0;
+}
+
+.price {
+  color: #28a745;
+  font-weight: bold;
+}
+
+.chatbot-logo {
+  width: 60px;
+  height: 60px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+/*# sourceMappingURL=frontend.aa436662.css.map */
